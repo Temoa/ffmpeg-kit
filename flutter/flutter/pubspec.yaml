@@ -1,9 +1,9 @@
-name: ffmpeg_kit_flutter
+name: ffmpeg_kit_flutter_audio
 description: FFmpeg Kit for Flutter. Supports Android, iOS and macOS platforms.
 repository: https://github.com/arthenica/ffmpeg-kit
 issue_tracker: https://github.com/arthenica/ffmpeg-kit/issues
 homepage: https://github.com/arthenica/ffmpeg-kit
-version: 6.0.3
+version: 6.0.3-LTS
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
